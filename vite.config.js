@@ -3,7 +3,8 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-base:"/countries/",
+// base:"/countries/",
   plugins: [react()]
 })
 
+// "homepage": "https://karim-abd-hussein.github.io/countries/",
