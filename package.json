@@ -2,14 +2,15 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://karim-abd-hussein.github.io/countries/",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-     "deploy": "gh-pages -d dist",
-     "predeploy" : "npm run build"
+    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
