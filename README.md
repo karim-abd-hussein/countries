@@ -1,58 +1,59 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+# REST Countries API with Color Theme Switcher
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This project is a web application that interacts with the REST Countries API to provide users with detailed information about various countries. It includes a color theme switcher for toggling between light and dark modes.
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [Features](#features)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Implementation](#implementation)
+  - [Technologies Used](#technologies-used)
+  - [Key Learnings](#key-learnings)
 
+---
 
 ## Overview
 
-### The challenge
+### Features
 
-Users should be able to:
-
-- See all countries from the API on the homepage
-- Search for a country using an `input` field
+- Display all countries from the API on the homepage
+- Search for a country using an input field
 - Filter countries by region
-- Click on a country to see more detailed information on a separate page
-- Toggle the color scheme between light and dark mode 
+- View detailed information about a country on a separate page
+- Toggle between light and dark themes
 
 ### Screenshot
 
-![preview](./design/desktop-preview.jpg)
+![Project Screenshot](/design//desktop-preview.jpg)
+![Detials Screenshot](/design//syaria-screenshots-det.png)
+![mobile Screenshot](/design/mobile-design-home-light.jpg)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- **Live Demo**: [live](#https://karim-abd-hussein.github.io/countries/)
 
-## My process
+---
 
-### Built with
+## Implementation
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Font awesome](https://font-awesome.com/) - For icons
+### Technologies Used
+
+- Semantic HTML5
+- CSS for styling (Flexbox and Grid)
+- JavaScript with [React](https://reactjs.org/)
+- [Font Awesome](https://fontawesome.com/) for icons
+- REST Countries API for data
+
+### Key Learnings
+
+Through this project, I improved my skills in:
+
+- Consuming and displaying data from REST APIs
+- Implementing theme toggling with React state management
+- Building reusable and modular React components
+- Handling dynamic user input for searching and filtering
 
 
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)

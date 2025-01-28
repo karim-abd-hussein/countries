@@ -9,7 +9,7 @@ import Main from "./pages/Main";
 import America from "./pages/America";
 import Asia from "./pages/Asia";
 import Europe from "./pages/Europe";
-import Oceania from "./pages/oceania";
+import Oceania from "./pages/Oceania";
 import { ThemeProvider } from "./component/ThemeContext";
 
 function App() {
