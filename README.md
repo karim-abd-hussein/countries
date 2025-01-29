@@ -33,7 +33,7 @@ This project is a web application that interacts with the REST Countries API to 
 
 ### Links
 
-- **Live Demo**: [live](#https://karim-abd-hussein.github.io/countries/)
+- **Live Demo**: [live](https://countries-mrfgb22fb-karim-husseins-projects.vercel.app/)
 
 ---
 
